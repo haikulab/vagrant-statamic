@@ -6,8 +6,8 @@ A happy union of [Vagrant](http://www.vagrantup.com/) and [Statamic CMS](http://
 
 ## Works on
 
-+ ![Vagrant 1.6.3](http://b.repl.ca/v1/Vagrant-1.6.3-green.png)
-+ ![Statamic 1.7-1.8](http://b.repl.ca/v1/Statamic-1.7--1.8-green.png)
++ ![Vagrant 1.7.2](http://b.repl.ca/v1/Vagrant-1.7.2-green.png)
++ ![Statamic 1.7-1.10.3](http://b.repl.ca/v1/Statamic-1.7--1.10.3-green.png)
 
 ## Requirements
 
@@ -105,4 +105,3 @@ Vagrant configures the vm to accept requests to the domain `statamic.dev`.
 What you'll need to do is add the following to your `/etc/hosts`
 
     10.0.1.100 statamic.dev
-
